@@ -1,0 +1,6 @@
+@HomelessAPI_HostAddress = http://localhost:5120
+
+GET {{HomelessAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
