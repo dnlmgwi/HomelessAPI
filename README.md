@@ -9,4 +9,4 @@ Key Features:
 - Benefactor Management: Allow benefactors to register, add new benefits, and track the benefits they provide.
 - Benefit Tracking: Facilitate the tracking and management of benefits, including their descriptions and associations with beneficiaries and benefactors.
 - Privacy-Conscious Design: Ensure the privacy of beneficiaries by handling sensitive information with care.
-- Age Group Classification: Beneficiaries' ages are categorized into age groups rather than specific ages to further p
+- Age Group Classification: Beneficiaries' ages are categorized into age groups rather than specific ages.
