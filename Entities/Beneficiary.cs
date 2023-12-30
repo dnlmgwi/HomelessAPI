@@ -10,6 +10,9 @@ namespace HomelessAPI.Entities
         public string? Name { get; set; }
         public AgeGroup AgeGroup { get; set; }
         public string? Gender { get; set; }
+
+        public decimal? DistanceTraveled { get; set; }
+
         public GeoLocation Location { get; set; }
         public List<Benefit> BenefitsClaimed { get; set; } = [];
     }
